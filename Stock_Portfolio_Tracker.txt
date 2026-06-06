@@ -1,4 +1,0 @@
-Stock Name  - Stock Quantity
-APPLE       -  2
-MICROSOFT   -  1
-Total Investment Value : Rs 760
